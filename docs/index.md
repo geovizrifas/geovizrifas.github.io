@@ -20,9 +20,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Rifas Ahamed</h1>
+  <p><strong>Geospatial Data Analyst</strong></p>
+  <p><em>Turning spatial data into insights | GIS | Remote Sensing | Geo-Python | Civil Site Modelling(C3D)</em></p>
 </div>
 
 ---
@@ -32,15 +32,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am a Geospatial Data Analyst and Survey Engineer with around six years of experience in various infrastructure projects, holding a ***B.Sc. in Surveying Sciences (Specialized in Cartography & GIS)*** from the Sabaragamuwa University of Sri Lanka. I specialize in GIS, Remote Sensing, and Geospatial data modeling, focusing on converting complex spatial data into actionable insights. Additionally, I work on civil site designing, utilizing Autodesk Civil 3D to deliver precise engineering layouts such site plans, grading layout, subdivision plans and workflows as a freelancer.
 
 </div>
 
@@ -53,7 +45,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Rifas-CV.pdf){ .md-button }
 
 
 ---
@@ -66,10 +58,9 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - QGIS, ArcGIS Pro, MapLibre
+    - Multispectral and SAR Image Analysis
+    - Cloud Native Geospatial (Google Earth Engine)
 
 -   :material-code-braces:{ .lg .middle } **Programming**
 
@@ -77,40 +68,24 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     - Python — GeoPandas, NumPy, Pandas, Matplotlib
     - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
     - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
-
-    ---
-
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
-
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
-
-    ---
-
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
+    ---
+
     - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
+    - Photogrammetry: Pix4DMapper, Agisoft Metashape, OpenDroneMap
     - Point cloud processing: CloudCompare, PDAL
+
+-   :material-city-variant-outline:{ .lg .middle } **Civil Site Designing (AutoDesk Civil 3D)**
+
+    ---
+
+    - Land/ Property Site Plan
+    - Land Subdivision Layout
+    - Site Grading
+    - Land Survey and Earthwork Quantity Reports    
 </div>
 
 
@@ -118,5 +93,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/mrrifas92){ .md-button }
+[LinkedIn](https://linkedin.com/in/geovizrifas){ .md-button }
